@@ -1,4 +1,0 @@
-new file8.txt
-adoufafou
-new line for newfile8.txt
-
